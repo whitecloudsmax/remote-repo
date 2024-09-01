@@ -1,5 +1,9 @@
 dev1 -
 111dev1 -qwfqwfw
 qqqqqqqqqqqqqqqqqqq
+<<<<<<< Updated upstream
 qqqeeeeeeeeeeeeasfa
 safafwa
+=======
+11
+>>>>>>> Stashed changes
